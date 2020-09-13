@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - Planet
+  - Water
+  - RightCannon
+  - LeftCannon
+  - obstacles
+  - enemy
   layers:
   - Default
   - TransparentFX
@@ -14,9 +19,9 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
+  - obstacles
+  - enemy
+  - player
   - 
   - 
   - 
